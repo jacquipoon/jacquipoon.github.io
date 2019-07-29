@@ -32,5 +32,5 @@ LinkedIn: [https://uk.linkedin.com/in/jacquelynepoon](https://uk.linkedin.com/in
 ## Education
 #### PhD in Plant Sciences, University of Cambridge
 #### MSc in Biochemistry, ETH Zürich
-#### BSc (Honours with Distinction), Queen's University
+#### BSc (Honours with Distinction) in Biochemistry (specialisation), Queen's University
 
