@@ -1,17 +1,18 @@
 # Jacquelyne Poon
 
-Social tech entrepreneur with a passion for driving positive impact and tackling food insecurity.
+Social tech entrepreneur with a passion for driving positive impact and tackling food insecurity using digital technologies.
 
-LinkedIn: https://uk.linkedin.com/in/jacquelynepoon  
+LinkedIn: [https://uk.linkedin.com/in/jacquelynepoon](https://uk.linkedin.com/in/jacquelynepoon)
 
 
 ## Experience
 
 ### Managing director and co-founder - [Farming Data Ltd](http://farmingdata.io)
 *2017 - present*
-* Developing digital platform that improves value chain management and analyses real-time spatiotemporal data from informal food chains  
+* Developing digital platform that improves value chain management and analyses real-time spatiotemporal data from informal food chains 
 * Leading business relationships with international consortium partners, including private and public body stakeholder groups
 * Developing user-centric UI / UX product designs
+* Managing R&D project worth £390k
 
 ### Science analyst - Canadian science policy fellow
 *2016 - 2017*
