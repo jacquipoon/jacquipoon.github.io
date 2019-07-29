@@ -1,4 +1,4 @@
-# Jacquelyne Poon
+# Jacquelyne S. Poon, PhD
 
 Social tech entrepreneur with a passion for driving positive impact and tackling food insecurity using digital technologies.
 
